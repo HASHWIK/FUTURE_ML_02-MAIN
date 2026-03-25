@@ -1,0 +1,10 @@
+text,category
+Internet not working,Technical
+App crashes on login,Technical
+Unable to reset password,Technical
+Payment failed but amount deducted,Billing
+Charged twice,Billing
+Need refund,Billing
+Order not delivered,Delivery
+Late delivery issue,Delivery
+Damaged product,Delivery
