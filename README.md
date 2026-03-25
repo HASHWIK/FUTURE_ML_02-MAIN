@@ -64,4 +64,4 @@ python -m src.train
 # Run app
 streamlit run dashboard/app.py
 
-## 📂 Project Structure
+
